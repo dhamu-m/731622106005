@@ -1,0 +1,26 @@
+# Design Document – AffordMed React App
+
+## 🧱 Architecture
+- Functional Components
+- Routing via React Router DOM
+- Two Pages: Home and About
+
+## ⚙️ Technologies
+- React (create-react-app)
+- react-router-dom
+
+## 🔁 Routing
+- `/` → Home
+- `/about` → About
+
+## 🧠 Data
+- No API or backend used
+- Future use: `useState`, `localStorage` or API
+
+## 💡 Assumptions
+- No login or form required
+- Simple navigation between pages
+
+## 🔮 Future Enhancements
+- Add dynamic content via API
+- Add login & error boundary
